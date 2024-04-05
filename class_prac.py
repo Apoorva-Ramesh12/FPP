@@ -24,7 +24,7 @@
 # print(a.n)
 # x=a()
 # print(x.n)
-Menu
+
 class menu:
     def __init__(self) :
         self.items={}
@@ -40,4 +40,5 @@ m.add("vada",200)
 m.add("sambar",100)
 m.add("dosa",150)
 m.show()
+    
 
